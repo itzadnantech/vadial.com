@@ -1,0 +1,16 @@
+[29-May-2021 12:40:40 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/fetchscript.php on line 246
+[29-May-2021 12:40:40 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/fetchscript.php on line 246
+[29-May-2021 12:52:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/fetchscript.php on line 246
+[29-May-2021 12:52:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/fetchscript.php on line 246
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  Illegal string offset 'name' in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/include/functions.php on line 107
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 39 in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/libraries/FTP.php on line 2522
+[29-May-2021 12:58:34 UTC] PHP Warning:  Illegal string offset 'name' in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/include/functions.php on line 107
+[18-Jun-2021 10:20:45 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/fetchscript.php on line 246
+[18-Jun-2021 10:20:45 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/w1ft43q4sr3u/public_html/vadial/eXtplorer/fetchscript.php on line 246
